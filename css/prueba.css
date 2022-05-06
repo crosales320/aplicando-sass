@@ -1,0 +1,27 @@
+header {
+  background-color: #15ab92; }
+  header nav {
+    text-align: right;
+    font-size: large;
+    justify-content: space-around; }
+    header nav a {
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      text-decoration: none; }
+      header nav a:hover {
+        color: black; }
+
+footer {
+  text-align: center;
+  background-color: #15ab92;
+  font-family: Verdana, Geneva, Tahoma, sans-serif; }
+
+main {
+  text-align: center; }
+  main img {
+    width: 70%; }
+  main h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px; }
+  main h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px; }

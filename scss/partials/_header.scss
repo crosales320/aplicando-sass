@@ -1,0 +1,21 @@
+$color: #15ab92;
+
+header {
+    background-color: $color;
+
+    nav {
+        text-align:right;
+        font-size: large;
+        justify-content: space-around;
+
+        a {
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            text-decoration: none;
+
+            &:hover {
+                color: black;
+            }
+        }
+
+    }
+}
